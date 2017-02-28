@@ -19,11 +19,12 @@ medical school: *4.0*
 * STEP 2 CS: Passed in first attempt
 * STEP 3: 202 (first attempt)
 
-### *_CERTIFACTIONS_*
+### *_CERTIFICATIONS_*
 
 * ECFMG Certification:  6th August 2015
 * BLS provider: October 2016
 * ACLS provider: November 2016
+* Learn to program: The Fundamentals: November 2016
 
 ### *_VISA Sponsorship_* 
 
