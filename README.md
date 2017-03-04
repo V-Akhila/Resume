@@ -35,7 +35,7 @@ medical school: *4.0*
 * _Coursera online certification course, Learn to Program: The Fundamentals, by University o Toronto_.                        (_Nov 2016-Dec2016_)
   * Learnt the fundamentals of Pythin programming.
   * Learnt about python variables, function, booleans, lists, if statements, for loops, while loops, readind and writing text files, tuples and dictionaries.
-  * Completed the course in timely fashion requirds by successfully completing the weekly quizzes and prgramming assignments.
+  * Completed the course in timely fashion required by successfully completing the weekly quizzes and prgramming assignments.
   * Earned certificate of completetion with overll grade of 88.8%.
   
 * _Observer, Harborview Medical Center, Seattle, WA_.                                                (_Oct 2016-Oct 2016_)
