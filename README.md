@@ -32,6 +32,12 @@ medical school: *4.0*
 
 ### *_EXPERIENCE SUMMARY_*
 
+* _Coursera online certification course, Learn to Program: The Fundamentals, by University o Toronto_.                        (_Nov 2016-Dec2016_)
+  * Learnt the fundamentals of Pythin programming.
+  * Learnt about python variables, function, booleans, lists, if statements, for loops, while loops, readind and writing text files, tuples and dictionaries.
+  * Completed the course in timely fashion requires and passed the weekly quizzes and prgramming assignments.
+  * Earned certificate of completetion with overll grade of 88.8%.
+  
 * _Observer, Harborview Medical Center, Seattle, WA_.                                                (_Oct 2016-Oct 2016_)
   * Shadowed Anesthesiologist, Anesthesiology residents and fellows in OR. 
   * Worked under the guidance of an Anesthesiologist, Mastered the Electronic medical record maintenance.
